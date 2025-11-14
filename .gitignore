@@ -1,0 +1,9 @@
+build/
+*.ahlx
+.vscode/
+.idea/
+cmake-build-*/
+*.o
+*.exe
+ahlelele
+.cursor/rules/
