@@ -1,0 +1,30 @@
+# Simple Fibonacci-like calculation
+# Calculates: 1 + 1 = 2, 1 + 2 = 3, 2 + 3 = 5
+
+# First number: 1
+ahlelele 1
+ahlelas 6
+
+# Second number: 1
+ahlelele 1
+ahlelas 6
+
+# Add them (1 + 1 = 2)
+ahlelas 2
+ahlelas 6
+
+# Swap to get [1, 2]
+ahlelele 1
+ahlelas 7
+
+# Add (1 + 2 = 3)
+ahlelas 2
+ahlelas 6
+
+# Print result (3)
+ahlelas 1
+
+# Print newline
+ahlelele 10
+ahlelas 0
+

@@ -1,0 +1,40 @@
+# Stack operations demo
+# Shows DUP, SWAP, DROP operations
+
+# Push 42
+ahlelele 42
+
+# Duplicate it
+ahlelas 6
+
+# Now we have [42, 42] on stack
+# Print first 42
+ahlelas 1
+
+# Print space
+ahlelele 32
+ahlelas 0
+
+# Print second 42
+ahlelas 1
+
+# Print newline
+ahlelele 10
+ahlelas 0
+
+# Push two numbers and swap them
+ahlelele 65
+ahlelele 66
+ahlelas 7
+
+# Now stack is [66, 65]
+# Print 'A' (65)
+ahlelas 0
+
+# Print 'B' (66)
+ahlelas 0
+
+# Print newline
+ahlelele 10
+ahlelas 0
+

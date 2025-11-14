@@ -1,0 +1,127 @@
+# Hello World program in Ahlelele Ahlelas
+# Prints: "Ahlelele ahlelas. Hello World!"
+
+# A
+ahlelele 65
+ahlelas 0
+
+# h
+ahlelele 104
+ahlelas 0
+
+# l
+ahlelele 108
+ahlelas 0
+
+# e
+ahlelele 101
+ahlelas 0
+
+# l
+ahlelele 108
+ahlelas 0
+
+# e
+ahlelele 101
+ahlelas 0
+
+# l
+ahlelele 108
+ahlelas 0
+
+# e
+ahlelele 101
+ahlelas 0
+
+# (space)
+ahlelele 32
+ahlelas 0
+
+# a
+ahlelele 97
+ahlelas 0
+
+# h
+ahlelele 104
+ahlelas 0
+
+# l
+ahlelele 108
+ahlelas 0
+
+# e
+ahlelele 101
+ahlelas 0
+
+# l
+ahlelele 108
+ahlelas 0
+
+# a
+ahlelele 97
+ahlelas 0
+
+# s
+ahlelele 115
+ahlelas 0
+
+# .
+ahlelele 46
+ahlelas 0
+
+# (space)
+ahlelele 32
+ahlelas 0
+
+# H
+ahlelele 72
+ahlelas 0
+
+# e
+ahlelele 101
+ahlelas 0
+
+# l
+ahlelele 108
+ahlelas 0
+
+# l
+ahlelele 108
+ahlelas 0
+
+# o
+ahlelele 111
+ahlelas 0
+
+# (space)
+ahlelele 32
+ahlelas 0
+
+# W
+ahlelele 87
+ahlelas 0
+
+# o
+ahlelele 111
+ahlelas 0
+
+# r
+ahlelele 114
+ahlelas 0
+
+# l
+ahlelele 108
+ahlelas 0
+
+# d
+ahlelele 100
+ahlelas 0
+
+# !
+ahlelele 33
+ahlelas 0
+
+# newline
+ahlelele 10
+ahlelas 0
+
